@@ -16,7 +16,6 @@ The detailed department consists of a development team and legal team and commun
 <b> Web Site </b> : https://prot-dev.com/ <br/>
 <b> White Paper(korean) </b> : https://prot-dev.com/docs/PROT_whitepaper.pdf?ver=1.4<br/>
 <b> White Paper(english) </b> : https://prot-dev.com/docs/PROT_whitepaper_eng.pdf?ver=1.4<br/>
-<b> White Paper(chinese) </b> : https://prot-dev.com/docs/PROT_whitepaper_cn.pdf?ver=1.4<br/>
 
 <br>
 <br>
