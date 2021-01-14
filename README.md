@@ -29,10 +29,10 @@ https://www.digifinex.com/
 <br>
 
 ## Community 
-<b> Telegram </b> : https://t.me/PROTMasterNodechat
-<b> Facebook </b> : https://www.facebook.com/PROTmasternode/
-<b> Instagram </b> : https://www.instagram.com/prot_masternode/
-<b> twitter </b> : https://twitter.com/PROTmasternode
-<b> youtube </b> : https://www.youtube.com/channel/UCdXpwFNBVX_I8aY_PUKKQTQ
-<b> medium </b> : https://medium.com/@PROTMASTERNODE
+<b> Telegram </b> : https://t.me/PROTMasterNodechat<br/>
+<b> Facebook </b> : https://www.facebook.com/PROTmasternode/<br/>
+<b> Instagram </b> : https://www.instagram.com/prot_masternode/<br/>
+<b> twitter </b> : https://twitter.com/PROTmasternode<br/>
+<b> youtube </b> : https://www.youtube.com/channel/UCdXpwFNBVX_I8aY_PUKKQTQ<br/>
+<b> medium </b> : https://medium.com/@PROTMASTERNODE<br/>
 
